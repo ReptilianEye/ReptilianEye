@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-## About me
+# About me
 
 I'm currenly a student at the AGH University of Science and Technology in Cracow, Poland. I'm studying Computer Science and I'm in my second year of studies. I have a passion for programming and I'm always eager to learn new things, especially in the field of software development. Currently looking for an internship or a part-time job to gain some experience in the industry.
 
-## Personal Projects
+# Personal Projects
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="25" height="25" style="vertical-align:middle" /> [FindProMates API](https://github.com/ReptilianEye/FindProMates-Api) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="25" height="25" style="vertical-align:middle" />
 
@@ -36,9 +36,7 @@ A database system for a learning platform written in **SQL** using **SQL Server*
 
 An implementation of the Voronoi Diagram algorithm written in **Python**. The task was to implemented the Fortune's algorithm and using the Delaunay triangulation. The project was created as a part of the Computational Geometry course.
 
-## Technologies
-
-I'm familiar with the following technologies:
+# Technologies
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -61,7 +59,7 @@ I'm familiar with the following technologies:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReptilianEye&layout=compact&theme=codeSTACKr&hide=jupyter%20notebook,html,css&size_weight=0.5&count_weight=0.5&langs_count=10)
 
-## Contact
+# Contact
 
 You can reach me at:
 
