@@ -14,31 +14,31 @@ A **GraphQL API** written in **Go** and using **MongoDB** as a database. It is d
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="25" height="25" style="vertical-align:middle" /> [Timecontrol - Schedule Planner](https://github.com/ReptilianEye/Timecontrol-schedule-planner) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="25" height="25" style="vertical-align:middle"/>
 
-An **Android** application written in **Kotlin**. It is designed for planning kitesurfing lessons and aims to optimize the process of creating schedules, to make it faster and error-proof. The app utilizes **Jetpack Compose** for its user interface.
+This is an **Android** application developed in **Kotlin**. It is specifically designed for planning kitesurfing lessons, with the goal of optimizing the scheduling process to be faster and more accurate. The app utilizes Jetpack Compose for its user interface.
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" style="vertical-align:middle" /> [TournamentsApp](https://github.com/ReptilianEye/TournamentsApp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  width="25" height="25" style="vertical-align:middle" />
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" style="vertical-align:middle" /> [Tournaments App](https://github.com/ReptilianEye/TournamentsApp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  width="25" height="25" style="vertical-align:middle" />
 
-A web application written in **Python** using the **Flask** framework. It is designed to help people organize and participate in tournaments. The app was one of my first projects and it was created to help me organize a chess tournament in my school.
+This is a web application created using the **Flask** framework and written in **Python**. Its purpose is to assist users in organizing and participating in tournaments. I developed this application as one of my initial projects to facilitate the organization of chess tournaments at my school.
 
 ## University Projects
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" height="25" style="vertical-align:middle" /> [Darwin World](https://github.com/ReptilianEye/Darwin-World) 🐒
 
-A simulation of an ecosystem written in **Java** with help of **JavaFX** framework. The project was created as a part of the Object-Oriented Programming course. The simulation is based on the principles of natural selection and evolution.
+A simulation of an ecosystem written in **Java** with help of **JavaFX** framework.
 
 ---
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="25" height="25" style="vertical-align:middle" /> [Learning Platform Database System](https://github.com/ReptilianEye/Learning-Platform-Database-System) :book:
 
-A database system for a learning platform written in **SQL** using **SQL Server**. The project was created as a part of the Database Systems course. The database was designed to store information about courses, studies, webinars and provide a way to manage them.
+A database system for a learning platform written in **SQL** using **SQL Server**. The database was designed to store information about courses, studies, webinars and provide a way to manage them.
 
 ---
 
 ### <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="25" height="25" style="vertical-align:middle"/> [Voronoi Diagram](https://github.com/ReptilianEye/Voronoi-Diagram) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/800px-Euclidean_Voronoi_diagram.svg.png" width="25" height="25" style="vertical-align:middle"/>
 
-An implementation of the Voronoi Diagram algorithm written in **Python**. The task was to implemented the Fortune's algorithm and using the Delaunay triangulation. The project was created as a part of the Computational Geometry course.
+An implementation of the Voronoi Diagram algorithm written in **Python**. The task was to implemented the Fortune's algorithm and using the Delaunay triangulation.
 
 # Technologies
 
