@@ -28,9 +28,13 @@ A web application written in **Python** using the **Flask** framework. It is des
 
 A simulation of an ecosystem written in **Java** with help of **JavaFX** framework. The project was created as a part of the Object-Oriented Programming course. The simulation is based on the principles of natural selection and evolution.
 
+---
+
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="25" height="25" style="vertical-align:middle" /> [Learning Platform Database System](https://github.com/ReptilianEye/Learning-Platform-Database-System) :book:
 
 A database system for a learning platform written in **SQL** using **SQL Server**. The project was created as a part of the Database Systems course. The database was designed to store information about courses, studies, webinars and provide a way to manage them.
+
+---
 
 ### <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="25" height="25" style="vertical-align:middle"/> [Voronoi Diagram](https://github.com/ReptilianEye/Voronoi-Diagram) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/800px-Euclidean_Voronoi_diagram.svg.png" width="25" height="25" style="vertical-align:middle"/>
 
