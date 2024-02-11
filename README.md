@@ -22,7 +22,7 @@ This is an **Android** application developed in **Kotlin**. It is specifically d
 
 This is a web application created using the **Flask** framework and written in **Python**. Its purpose is to assist users in organizing and participating in tournaments. I developed this application as one of my initial projects to facilitate the organization of chess tournaments at my school.
 
-## University Projects
+# University Projects
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" height="25" style="vertical-align:middle" /> [Darwin World](https://github.com/ReptilianEye/Darwin-World) 🐒
 
