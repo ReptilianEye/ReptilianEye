@@ -6,7 +6,7 @@ I'm currenly a student at the AGH University of Science and Technology in Cracow
 
 # Personal Projects
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="25" height="25" style="" /> [FindProMates API](https://github.com/ReptilianEye/FindProMates-Api) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="25" height="25" style="vertical-align:middle" />
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="25" height="25" style="vertical-align:middle" /> [FindProMates API](https://github.com/ReptilianEye/FindProMates-Api) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="25" height="25" style="vertical-align:middle" />
 
 A **GraphQL API** written in **Go** and using **MongoDB** as a database. It is designed to help people find collaborators for their projects.
 
