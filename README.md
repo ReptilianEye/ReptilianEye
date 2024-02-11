@@ -38,7 +38,7 @@ A database system for a learning platform written in **SQL** using **SQL Server*
 
 ### <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="25" height="25" style="vertical-align:middle"/> [Voronoi Diagram](https://github.com/ReptilianEye/Voronoi-Diagram) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/800px-Euclidean_Voronoi_diagram.svg.png" width="25" height="25" style="vertical-align:middle"/>
 
-An implementation of the Voronoi Diagram algorithm written in **Python**. The task was to implemented the Fortune's algorithm and using the Delaunay triangulation.
+Implements of algorithms in **Python** for finding the Voronoi Diagram. It utilizes Fortune's algorithm and the Delaunay triangulation.
 
 # Technologies
 
