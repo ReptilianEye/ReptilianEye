@@ -2,9 +2,15 @@
 
 # About me
 
-I'm currenly a student at the AGH University of Science and Technology in Cracow, Poland. I'm studying Computer Science and I'm in my second year of studies. I have a passion for programming and I'm always eager to learn new things, especially in the field of software development. Currently looking for an internship or a part-time job to gain some experience in the industry.
+I am currently in my second year pursuing a degree in Computer Science at AGH University of Science and Technology in Cracow. I have a passion for programming and I'm always eager to learn new things, especially in the field of software development. Currently looking for an internship or a part-time job to gain some experience in the industry.
 
 # Personal Projects
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="25" height="25" style="vertical-align:middle"/> [Elevators System](https://github.com/ReptilianEye/ElevatorsSystem) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="25" height="25" style="vertical-align:middle"/>
+
+This project presents a web application that simulates elevator operations. It utilizes **Java** and **Spring** for the backend, along with **TypeScript**, **React**, and **Vite** for the frontend. The infrastructure is tailored for seamless integration with **GCP Cloud Run** serverless platform. To achieve this, I used **Docker** to containerize the application and **GitHub Actions** for CI/CD.
+
+---
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="25" height="25" style="vertical-align:middle" /> [FindProMates API](https://github.com/ReptilianEye/FindProMates-Api) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="25" height="25" style="vertical-align:middle" />
 
