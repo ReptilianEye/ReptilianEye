@@ -2,7 +2,7 @@
 
 # About me
 
-I am currently in my third year pursuing a degree in Computer Science at AGH University of Science and Technology in Cracow. I have a passion for programming and I'm always eager to learn new things, especially in the field of software development. Currently looking working at Software Mansion as a Software Engineer.
+I am currently in my third year pursuing a degree in Computer Science at AGH University of Science and Technology in Cracow. I have a passion for programming and I'm always eager to learn new things, especially in the field of software development. Currently working at Software Mansion as a Software Engineer.
 
 # Personal Projects
 
