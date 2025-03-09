@@ -2,19 +2,19 @@
 
 # About me
 
-I am currently in my third year pursuing a degree in Computer Science at AGH University of Science and Technology in Cracow. I have a passion for programming and I'm always eager to learn new things, especially in the field of software development. Currently working at Software Mansion as a Software Engineer.
+I am in my third year pursuing a bachelor's degree in computer science at AGH University of Science and Technology in Cracow. I am passionate about programming and eager to learn new things. Currently working as a Software Engineer at [Software Mansion](https://github.com/software-mansion).
 
 # Personal Projects
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="25" height="25" style="vertical-align:middle"/> [Elevators System](https://github.com/ReptilianEye/ElevatorsSystem) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="25" height="25" style="vertical-align:middle"/>
 
-This project presents a web application that simulates elevator operations. It utilizes **Java** and **Spring** for the backend, along with **TypeScript**, **React**, and **Vite** for the frontend. The infrastructure is tailored for seamless integration with **GCP Cloud Run** serverless platform. To achieve this, I used **Docker** to containerize the application and **GitHub Actions** for CI/CD.
+This project presents a web application that simulates elevator operations. It utilizes **Java** and **Spring** for the backend and **TypeScript**, **React**, and **Vite** for the frontend. The infrastructure is tailored for seamless integration with **GCP Cloud Run** serverless platform. I used **Docker** to containerize the application and **GitHub Actions** for CI/CD to achieve this.
 
 ---
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="25" height="25" style="vertical-align:middle" /> [FindProMates API](https://github.com/ReptilianEye/FindProMates-Api) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="25" height="25" style="vertical-align:middle" />
 
-A **GraphQL API** written in **Go** and using **MongoDB** as a database. It is designed to help people find collaborators for their projects.
+A **GraphQL API** is written in **Go** and uses **MongoDB** as a database. It is designed to help people find collaborators for their projects.
 
 ---
 
@@ -26,25 +26,25 @@ This is an **Android** application developed in **Kotlin**. It is specifically d
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" style="vertical-align:middle" /> [Tournaments App](https://github.com/ReptilianEye/TournamentsApp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  width="25" height="25" style="vertical-align:middle" />
 
-This is a web application created using the **Flask** framework and written in **Python**. Its purpose is to assist users in organizing and participating in tournaments. I developed this application as one of my initial projects to facilitate the organization of chess tournaments at my school.
+This web application was created using the **Flask** framework and written in **Python**. Its purpose is to assist users in organizing and participating in tournaments. I developed this application as one of my initial projects to facilitate the organization of chess tournaments at my school.
 
 # University Projects
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" height="25" style="vertical-align:middle" /> [Darwin World](https://github.com/ReptilianEye/Darwin-World) 🐒
 
-A simulation of an ecosystem written in **Java** with help of **JavaFX** framework.
+A simulation of an ecosystem written in **Java** with the help of **JavaFX** framework.
 
 ---
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="25" height="25" style="vertical-align:middle" /> [Learning Platform Database System](https://github.com/ReptilianEye/Learning-Platform-Database-System) :book:
 
-A database system for a learning platform written in **SQL** using **SQL Server**. The database was designed to store information about courses, studies, webinars and provide a way to manage them.
+A database system for a learning platform written in **SQL** using **SQL Server**. The database was designed to store information about courses, studies, and webinars and provide a way to manage them.
 
 ---
 
 ### <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="25" height="25" style="vertical-align:middle"/> [Voronoi Diagram](https://github.com/ReptilianEye/Voronoi-Diagram) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/800px-Euclidean_Voronoi_diagram.svg.png" width="25" height="25" style="vertical-align:middle"/>
 
-Implements of algorithms in **Python** for finding the Voronoi Diagram. It utilizes Fortune's algorithm and the Delaunay triangulation.
+Implement algorithms in **Python** to find the Voronoi Diagram. It utilizes Fortune's algorithm and the Delaunay triangulation.
 
 # Technologies
 
